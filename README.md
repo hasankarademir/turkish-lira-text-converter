@@ -1,7 +1,9 @@
 # turkish-lira-text-converter
 
 DEMO
+
 npm install
+
 npm run dev
 
 
